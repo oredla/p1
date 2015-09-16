@@ -4,7 +4,7 @@
 <http://p1.orangeedward.xyz>
 
 ## Description
-The first assignment, P1, with a simple portfolio and 
+The first assignment, P1, with a simple portfolio and link for the following projects P2, P3, and P4. 
 
 ## Demo
 No Demo for P1. 
